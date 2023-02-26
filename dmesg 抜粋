@@ -1,0 +1,5 @@
+[    9.117410] Initializing XFRM netlink socket
+[  268.555200] rfkill: input handler disabled
+
+[  270.396530] audit: type=1400 audit(1677407673.275:72): apparmor="DENIED" operation="open" class="file" profile="snap.snap-store.snap-store" name="/etc/appstream.conf" pid=1808 comm="snap-store" requested_mask="r" denied_mask="r" fsuid=1000 ouid=0
+[  337.065384] audit: type=1400 audit(1677407739.943:73): apparmor="DENIED" operation="open" class="file" profile="snap-update-ns.firefox" name="/var/lib/" pid=2257 comm="5" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
